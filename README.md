@@ -185,3 +185,6 @@ end
 
 ## Tryout
 Examples are in the file `ec_groups.rb`.
+## References
+1. *Programming Bitcoin*, Jimmy Song
+2. *Algebraic Aspects of Cryptography*, Neal Koblitz
